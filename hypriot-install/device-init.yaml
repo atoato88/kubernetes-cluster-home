@@ -1,0 +1,6 @@
+hostname: pi-lab01
+wifi:
+  interfaces:
+    wlan0:
+      ssid: "Buffalo-G-93FE"
+      password: "hachihaurusai"
