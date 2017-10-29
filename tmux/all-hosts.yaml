@@ -53,4 +53,4 @@ windows:
         - ssh master03
         - ssh worker01
         - ssh worker02
-        - echo ssh worker03
+        - ssh worker03
